@@ -1,0 +1,126 @@
+.image-1-div {
+  position: absolute;
+  top: -150.62px;
+  left: -123.8px;
+  width: 503.79px;
+  height: 389.23px;
+}
+.logo-div {
+  position: absolute;
+  top: 14px;
+  left: 81px;
+  display: inline-block;
+}
+.frame-div108 {
+  position: absolute;
+  top: 25px;
+  left: 28px;
+  width: 256.19px;
+  height: 88px;
+  overflow: hidden;
+  font-family: Inter;
+}
+.search-black-24dp-1-icon {
+  position: absolute;
+  top: 18px;
+  left: 29px;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+}
+.search-for-projects {
+  position: absolute;
+  top: 22px;
+  left: 90px;
+  display: flex;
+  align-items: center;
+  width: 312px;
+  height: 26px;
+}
+.frame-div109 {
+  position: absolute;
+  top: 33px;
+  left: 439px;
+  border-radius: 5px;
+  background-color: #f6f6f6;
+  width: 996px;
+  height: 72px;
+  overflow: hidden;
+  font-size: 16px;
+  color: rgba(28, 48, 74, 0.5);
+}
+.ellipse-icon22 {
+  position: relative;
+  width: 227px;
+  height: 137px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.oliver-smith-div,
+.vendor-div {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 174px;
+  flex-shrink: 0;
+}
+.oliver-smith-div {
+  line-height: 125.3%;
+  font-weight: 500;
+  height: 26px;
+}
+.vendor-div {
+  font-size: 13px;
+  line-height: 122%;
+  color: #11132a;
+  height: 18px;
+}
+.frame-div112 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div112 > * + * {
+  margin-top: 10px;
+}
+.frame-div111 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-div111 > * + * {
+  margin-left: 20px;
+}
+.arrow-forward-ios-black-24dp-1-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frame-div110 {
+  position: absolute;
+  top: 35px;
+  left: 1528px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 22px;
+  color: #515252;
+}
+.app-bar-div {
+  position: absolute;
+  top: 0;
+  left: -2px;
+  background-color: #fff;
+  width: 1920px;
+  height: 137px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 40px;
+  color: #000;
+  font-family: Rubik;
+}

@@ -1,0 +1,12 @@
+.pending-invoice-div {
+  position: absolute;
+  top: 948px;
+  left: 439px;
+  line-height: 125.3%;
+  font-weight: 500;
+  color: #11132a;
+  display: flex;
+  align-items: center;
+  width: 494px;
+  height: 40px;
+}

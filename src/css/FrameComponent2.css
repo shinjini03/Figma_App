@@ -1,0 +1,65 @@
+.filter-div {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.filter-alt-black-24dp-1-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frame-div49 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-div49 > * + * {
+  margin-left: 13px;
+}
+.frame-div48 {
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid #ece9f1;
+  box-sizing: border-box;
+  position: relative;
+  height: 56px;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 7px 24px;
+  justify-content: center;
+}
+.frame-div47,
+.frame-div48,
+.frame-div50 {
+  display: flex;
+  align-items: center;
+}
+.frame-div50 {
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid #ece9f1;
+  box-sizing: border-box;
+  position: relative;
+  height: 56px;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 4px 16px;
+  justify-content: center;
+}
+.frame-div47 {
+  position: absolute;
+  top: 563px;
+  left: 1245px;
+  flex-direction: row;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: Rubik;
+}
+.frame-div47 > * + * {
+  margin-left: 15px;
+}

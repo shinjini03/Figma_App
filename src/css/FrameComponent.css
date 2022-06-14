@@ -1,0 +1,78 @@
+.vector-icon {
+  position: absolute;
+  top: 2.87px;
+  left: 0;
+  width: 330.92px;
+  height: 257.38px;
+}
+.progess-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.in-progress-div {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div39 {
+  width: 124px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-div39 > * + * {
+  margin-left: 13px;
+}
+.frame-div38 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  border-radius: 6.08px;
+  background-color: rgba(12, 12, 12, 0.2);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 9px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.b,
+.projects-in-progress {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.b {
+  top: 118px;
+  left: 20px;
+  font-size: 64px;
+  width: 112px;
+  height: 61px;
+}
+.projects-in-progress {
+  top: 190px;
+  left: 23px;
+  font-weight: 500;
+  width: 239px;
+  height: 21px;
+}
+.frame-div37 {
+  position: absolute;
+  top: 284px;
+  left: 853px;
+  border-radius: 11.49px;
+  background-color: #7ad1ff;
+  box-shadow: 0 20px 60px rgba(101, 202, 255, 0.2);
+  width: 282.66px;
+  height: 239px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #fff;
+  font-family: Poppins;
+}

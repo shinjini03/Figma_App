@@ -1,0 +1,12 @@
+.welcome-back-andrew {
+  position: absolute;
+  top: 179px;
+  left: 439px;
+  line-height: 125.3%;
+  font-weight: 500;
+  color: #192434;
+  display: flex;
+  align-items: center;
+  width: 494px;
+  height: 40px;
+}

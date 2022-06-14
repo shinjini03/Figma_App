@@ -1,0 +1,24 @@
+.line-div,
+.line-div1 {
+  position: absolute;
+  top: -0.5px;
+  left: 377.5px;
+  border-right: 1px solid rgba(28, 55, 90, 0.16);
+  box-sizing: border-box;
+  width: 1px;
+  height: 1082px;
+}
+.line-div1 {
+  left: 1489.5px;
+}
+.wt004-div {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1274px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 28px;
+  color: #6e6f7d;
+  font-family: Rubik;
+}

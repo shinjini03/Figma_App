@@ -1,0 +1,23 @@
+.more-vert-black-24dp-2-icon2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.frame-div85 {
+  position: absolute;
+  top: 953px;
+  left: 1379px;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid #ece9f1;
+  box-sizing: border-box;
+  height: 56px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 4px 16px;
+  align-items: center;
+  justify-content: center;
+}

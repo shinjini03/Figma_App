@@ -1,0 +1,11 @@
+.invoices-that-are-currently-pe {
+  position: absolute;
+  top: 1003px;
+  left: 439px;
+  font-size: 18px;
+  line-height: 161.1%;
+  display: flex;
+  align-items: center;
+  width: 385px;
+  height: 25px;
+}
